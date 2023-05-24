@@ -1,0 +1,109 @@
+  body 		{	margin: 0;
+				padding: 0;
+				background: #f1f1f1;
+				
+				margin: 0 auto;}
+	.main-div{width: 86%;
+					margin: 0 auto;
+			}
+	
+	.headline  {text-align: center;
+	            margin: 50px;
+				font-family: "Raleway", sans-serif;}
+	
+	.head-2    {display: flex;
+					gap: 2rem;
+					justify-content: space-between;}
+		
+	.left 	{width: 70%;
+				margin: 0 auto;
+				
+				font-family: "Raleway", sans-serif;}
+				
+	.left-2 {margin-top: 35px;}			
+				
+	
+	.box-pic1 {width: 100%;
+				margin: 0 auto;}
+				
+	.box-text1 { margin: 0;
+				padding: 1px;
+	      background: white;}	
+	
+	
+	.text-f { display: flex;
+				justify-content: space-between;
+				align-items: center;}
+
+	.read-button{text-decoration: none;
+					color:black;
+					border: gray 1px solid;
+					padding: 10px;}
+					
+	.right	 {width: 30%;
+               margin: 0 auto;
+			   
+			   height: rem;
+			   font-family: "Raleway", sans-serif;}
+			   
+	.box-pic2 {width: 100%;
+				margin: 0 auto;}		   
+				
+				
+	.box-text2{ background: white;
+    padding: 7px;
+    margin: 0px;}	
+
+	.right-1{    margin-top: 40px;}
+
+	.ppost{background:gray;
+			margin: 0;
+			padding: 14px;
+			font-size: 20px;
+			font-family: "Raleway", sans-serif;}	
+		
+	.rpic1{
+		display: flex;
+		gap: 1rem;
+		border-bottom: 1px solid #e0dbdb;
+	}
+			
+	.right-pic{width: 12%;
+				height: 100%;
+				padding: 10px;}
+	
+	.pic-sec {background: white;
+				font-family: "Raleway", sans-serif;
+				line-height: 0;}
+	
+	
+	.tag-wraper{background: white;}
+	
+	.f-tag{display: flex;
+				gap: 1rem;}
+	
+	.f-tag1 {display: flex;
+			gap: 1rem;}
+	.right-2  { margin-top: 35px;}
+	
+	.tag-text{background: lightgray;
+	font-family: "Raleway", sans-serif;}
+	
+	.tag{background:gray;
+    margin: 0;
+    padding: 14px;
+    font-size: 20px;
+	font-family: "Raleway", sans-serif;}
+	
+	.t-1{background: lightgray;
+			width: 15%;}
+			
+	.headline p span{
+		background: black;
+		color: white;
+		padding: 5px;
+	}
+	
+	@media only screen and (max-width: 600px){
+		
+	}
